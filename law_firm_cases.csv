@@ -1,51 +1,51 @@
 Case ID,Law Firm,Case Name,Date,Case Type,Result
-NYC-2024-1001,Hardmann. & Pearsons,Case 1,2023-01-16,Emancipation,Settled for Defendant
-NYC-2025-1002,Hardmann. & Pearsons,Case 2,2023-01-27,Employment,Dismissed
-NYC-2023-1003,Hardmann. & Pearsons,Case 3,2023-02-07,Personal Injury,Judgment for Plaintiff
-NYC-2024-1004,Hardmann. & Pearsons,Case 4,2023-02-18,Family Law,Judgment for Defendant
-NYC-2025-1005,Hardmann. & Pearsons,Case 5,2023-03-01,Contract Dispute,Mediation Agreement Reached
-NYC-2023-1006,Hardmann. & Pearsons,Case 6,2023-03-12,Immigration,Pending Appeal
-NYC-2024-1007,Hardmann. & Pearsons,Case 7,2023-03-23,Civil Rights,Case Withdrawn
-NYC-2025-1008,Hardmann. & Pearsons,Case 8,2023-04-03,Landlord-Tenant,Settled for Plaintiff
-NYC-2023-1009,Hardmann. & Pearsons,Case 9,2023-04-14,Consumer Protection,Settled for Defendant
-NYC-2024-1010,Hardmann. & Pearsons,Case 10,2023-04-25,Housing,Dismissed
-NYC-2025-1011,Hardmann. & Pearsons,Case 11,2023-05-06,Emancipation,Judgment for Plaintiff
-NYC-2023-1012,Hardmann. & Pearsons,Case 12,2023-05-17,Employment,Judgment for Defendant
-NYC-2024-1013,Hardmann. & Pearsons,Case 13,2023-05-28,Personal Injury,Mediation Agreement Reached
-NYC-2025-1014,Hardmann. & Pearsons,Case 14,2023-06-08,Family Law,Pending Appeal
-NYC-2023-1015,Hardmann. & Pearsons,Case 15,2023-06-19,Contract Dispute,Case Withdrawn
-NYC-2024-1016,Hardmann. & Pearsons,Case 16,2023-06-30,Immigration,Settled for Plaintiff
-NYC-2025-1017,Hardmann. & Pearsons,Case 17,2023-07-11,Civil Rights,Settled for Defendant
-NYC-2023-1018,Hardmann. & Pearsons,Case 18,2023-07-22,Landlord-Tenant,Dismissed
-NYC-2024-1019,Hardmann. & Pearsons,Case 19,2023-08-02,Consumer Protection,Judgment for Plaintiff
-NYC-2025-1020,Hardmann. & Pearsons,Case 20,2023-08-13,Housing,Judgment for Defendant
-NYC-2023-1021,Hardmann. & Pearsons,Case 21,2023-08-24,Emancipation,Mediation Agreement Reached
-NYC-2024-1022,Hardmann. & Pearsons,Case 22,2023-09-04,Employment,Pending Appeal
-NYC-2025-1023,Hardmann. & Pearsons,Case 23,2023-09-15,Personal Injury,Case Withdrawn
-NYC-2023-1024,Hardmann. & Pearsons,Case 24,2023-09-26,Family Law,Settled for Plaintiff
-NYC-2024-1025,Hardmann. & Pearsons,Case 25,2023-10-07,Contract Dispute,Settled for Defendant
-NYC-2025-1026,Hardmann. & Pearsons,Case 26,2023-10-18,Immigration,Dismissed
-NYC-2023-1027,Hardmann. & Pearsons,Case 27,2023-10-29,Civil Rights,Judgment for Plaintiff
-NYC-2024-1028,Hardmann. & Pearsons,Case 28,2023-11-09,Landlord-Tenant,Judgment for Defendant
-NYC-2025-1029,Hardmann. & Pearsons,Case 29,2023-11-20,Consumer Protection,Mediation Agreement Reached
-NYC-2023-1030,Hardmann. & Pearsons,Case 30,2023-12-01,Housing,Pending Appeal
-NYC-2024-1031,Hardmann. & Pearsons,Case 31,2023-12-12,Emancipation,Case Withdrawn
-NYC-2025-1032,Hardmann. & Pearsons,Case 32,2023-12-23,Employment,Settled for Plaintiff
-NYC-2023-1033,Hardmann. & Pearsons,Case 33,2024-01-03,Personal Injury,Settled for Defendant
-NYC-2024-1034,Hardmann. & Pearsons,Case 34,2024-01-14,Family Law,Dismissed
-NYC-2025-1035,Hardmann. & Pearsons,Case 35,2024-01-25,Contract Dispute,Judgment for Plaintiff
-NYC-2023-1036,Hardmann. & Pearsons,Case 36,2024-02-05,Immigration,Judgment for Defendant
-NYC-2024-1037,Hardmann. & Pearsons,Case 37,2024-02-16,Civil Rights,Mediation Agreement Reached
-NYC-2025-1038,Hardmann. & Pearsons,Case 38,2024-02-27,Landlord-Tenant,Pending Appeal
-NYC-2023-1039,Hardmann. & Pearsons,Case 39,2024-03-09,Consumer Protection,Case Withdrawn
-NYC-2024-1040,Hardmann. & Pearsons,Case 40,2024-03-20,Housing,Settled for Plaintiff
-NYC-2025-1041,Hardmann. & Pearsons,Case 41,2024-03-31,Emancipation,Settled for Defendant
-NYC-2023-1042,Hardmann. & Pearsons,Case 42,2024-04-11,Employment,Dismissed
-NYC-2024-1043,Hardmann. & Pearsons,Case 43,2024-04-22,Personal Injury,Judgment for Plaintiff
-NYC-2025-1044,Hardmann. & Pearsons,Case 44,2024-05-03,Family Law,Judgment for Defendant
-NYC-2023-1045,Hardmann. & Pearsons,Case 45,2024-05-14,Contract Dispute,Mediation Agreement Reached
-NYC-2024-1046,Hardmann. & Pearsons,Case 46,2024-05-25,Immigration,Pending Appeal
-NYC-2025-1047,Hardmann. & Pearsons,Case 47,2024-06-05,Civil Rights,Case Withdrawn
-NYC-2023-1048,Hardmann. & Pearsons,Case 48,2024-06-16,Landlord-Tenant,Settled for Plaintiff
-NYC-2024-1049,Hardmann. & Pearsons,Case 49,2024-06-27,Consumer Protection,Settled for Defendant
-NYC-2025-1050,Hardmann. & Pearsons,Case 50,2024-07-08,Housing,Dismissed
+NYC-2024-1001,Hardmann & Pearsons,Case 1,2023-01-16,Emancipation,Settled for Defendant
+NYC-2025-1002,Hardmann & Pearsons,Case 2,2023-01-27,Employment,Dismissed
+NYC-2023-1003,Hardmann & Pearsons,Case 3,2023-02-07,Personal Injury,Judgment for Plaintiff
+NYC-2024-1004,Hardmann & Pearsons,Case 4,2023-02-18,Family Law,Judgment for Defendant
+NYC-2025-1005,Hardmann & Pearsons,Case 5,2023-03-01,Contract Dispute,Mediation Agreement Reached
+NYC-2023-1006,Hardmann & Pearsons,Case 6,2023-03-12,Immigration,Pending Appeal
+NYC-2024-1007,Hardmann & Pearsons,Case 7,2023-03-23,Civil Rights,Case Withdrawn
+NYC-2025-1008,Hardmann & Pearsons,Case 8,2023-04-03,Landlord-Tenant,Settled for Plaintiff
+NYC-2023-1009,Hardmann & Pearsons,Case 9,2023-04-14,Consumer Protection,Settled for Defendant
+NYC-2024-1010,Hardmann & Pearsons,Case 10,2023-04-25,Housing,Dismissed
+NYC-2025-1011,Hardmann & Pearsons,Case 11,2023-05-06,Emancipation,Judgment for Plaintiff
+NYC-2023-1012,Hardmann & Pearsons,Case 12,2023-05-17,Employment,Judgment for Defendant
+NYC-2024-1013,Hardmann & Pearsons,Case 13,2023-05-28,Personal Injury,Mediation Agreement Reached
+NYC-2025-1014,Hardmann & Pearsons,Case 14,2023-06-08,Family Law,Pending Appeal
+NYC-2023-1015,Hardmann & Pearsons,Case 15,2023-06-19,Contract Dispute,Case Withdrawn
+NYC-2024-1016,Hardmann & Pearsons,Case 16,2023-06-30,Immigration,Settled for Plaintiff
+NYC-2025-1017,Hardmann & Pearsons,Case 17,2023-07-11,Civil Rights,Settled for Defendant
+NYC-2023-1018,Hardmann & Pearsons,Case 18,2023-07-22,Landlord-Tenant,Dismissed
+NYC-2024-1019,Hardmann & Pearsons,Case 19,2023-08-02,Consumer Protection,Judgment for Plaintiff
+NYC-2025-1020,Hardmann & Pearsons,Case 20,2023-08-13,Housing,Judgment for Defendant
+NYC-2023-1021,Hardmann & Pearsons,Case 21,2023-08-24,Emancipation,Mediation Agreement Reached
+NYC-2024-1022,Hardmann & Pearsons,Case 22,2023-09-04,Employment,Pending Appeal
+NYC-2025-1023,Hardmann & Pearsons,Case 23,2023-09-15,Personal Injury,Case Withdrawn
+NYC-2023-1024,Hardmann & Pearsons,Case 24,2023-09-26,Family Law,Settled for Plaintiff
+NYC-2024-1025,Hardmann & Pearsons,Case 25,2023-10-07,Contract Dispute,Settled for Defendant
+NYC-2025-1026,Hardmann & Pearsons,Case 26,2023-10-18,Immigration,Dismissed
+NYC-2023-1027,Hardmann & Pearsons,Case 27,2023-10-29,Civil Rights,Judgment for Plaintiff
+NYC-2024-1028,Hardmann & Pearsons,Case 28,2023-11-09,Landlord-Tenant,Judgment for Defendant
+NYC-2025-1029,Hardmann & Pearsons,Case 29,2023-11-20,Consumer Protection,Mediation Agreement Reached
+NYC-2023-1030,Hardmann & Pearsons,Case 30,2023-12-01,Housing,Pending Appeal
+NYC-2024-1031,Hardmann & Pearsons,Case 31,2023-12-12,Emancipation,Case Withdrawn
+NYC-2025-1032,Hardmann & Pearsons,Case 32,2023-12-23,Employment,Settled for Plaintiff
+NYC-2023-1033,Hardmann & Pearsons,Case 33,2024-01-03,Personal Injury,Settled for Defendant
+NYC-2024-1034,Hardmann & Pearsons,Case 34,2024-01-14,Family Law,Dismissed
+NYC-2025-1035,Hardmann & Pearsons,Case 35,2024-01-25,Contract Dispute,Judgment for Plaintiff
+NYC-2023-1036,Hardmann & Pearsons,Case 36,2024-02-05,Immigration,Judgment for Defendant
+NYC-2024-1037,Hardmann & Pearsons,Case 37,2024-02-16,Civil Rights,Mediation Agreement Reached
+NYC-2025-1038,Hardmann & Pearsons,Case 38,2024-02-27,Landlord-Tenant,Pending Appeal
+NYC-2023-1039,Hardmann & Pearsons,Case 39,2024-03-09,Consumer Protection,Case Withdrawn
+NYC-2024-1040,Hardmann & Pearsons,Case 40,2024-03-20,Housing,Settled for Plaintiff
+NYC-2025-1041,Hardmann & Pearsons,Case 41,2024-03-31,Emancipation,Settled for Defendant
+NYC-2023-1042,Hardmann & Pearsons,Case 42,2024-04-11,Employment,Dismissed
+NYC-2024-1043,Hardmann & Pearsons,Case 43,2024-04-22,Personal Injury,Judgment for Plaintiff
+NYC-2025-1044,Hardmann & Pearsons,Case 44,2024-05-03,Family Law,Judgment for Defendant
+NYC-2023-1045,Hardmann & Pearsons,Case 45,2024-05-14,Contract Dispute,Mediation Agreement Reached
+NYC-2024-1046,Hardmann & Pearsons,Case 46,2024-05-25,Immigration,Pending Appeal
+NYC-2025-1047,Hardmann & Pearsons,Case 47,2024-06-05,Civil Rights,Case Withdrawn
+NYC-2023-1048,Hardmann & Pearsons,Case 48,2024-06-16,Landlord-Tenant,Settled for Plaintiff
+NYC-2024-1049,Hardmann & Pearsons,Case 49,2024-06-27,Consumer Protection,Settled for Defendant
+NYC-2025-1050,Hardmann & Pearsons,Case 50,2024-07-08,Housing,Dismissed
