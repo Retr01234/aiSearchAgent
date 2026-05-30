@@ -1,0 +1,51 @@
+Case ID,Law Firm,Case Name,Date,Case Type,Result
+NYC-2024-1001,Example NYC Law Firm 1,Sample Case 1,2023-01-16,Emancipation,Settled for Defendant
+NYC-2025-1002,Example NYC Law Firm 2,Sample Case 2,2023-01-27,Employment,Dismissed
+NYC-2023-1003,Example NYC Law Firm 3,Sample Case 3,2023-02-07,Personal Injury,Judgment for Plaintiff
+NYC-2024-1004,Example NYC Law Firm 4,Sample Case 4,2023-02-18,Family Law,Judgment for Defendant
+NYC-2025-1005,Example NYC Law Firm 5,Sample Case 5,2023-03-01,Contract Dispute,Mediation Agreement Reached
+NYC-2023-1006,Example NYC Law Firm 6,Sample Case 6,2023-03-12,Immigration,Pending Appeal
+NYC-2024-1007,Example NYC Law Firm 7,Sample Case 7,2023-03-23,Civil Rights,Case Withdrawn
+NYC-2025-1008,Example NYC Law Firm 8,Sample Case 8,2023-04-03,Landlord-Tenant,Settled for Plaintiff
+NYC-2023-1009,Example NYC Law Firm 9,Sample Case 9,2023-04-14,Consumer Protection,Settled for Defendant
+NYC-2024-1010,Example NYC Law Firm 10,Sample Case 10,2023-04-25,Housing,Dismissed
+NYC-2025-1011,Example NYC Law Firm 1,Sample Case 11,2023-05-06,Emancipation,Judgment for Plaintiff
+NYC-2023-1012,Example NYC Law Firm 2,Sample Case 12,2023-05-17,Employment,Judgment for Defendant
+NYC-2024-1013,Example NYC Law Firm 3,Sample Case 13,2023-05-28,Personal Injury,Mediation Agreement Reached
+NYC-2025-1014,Example NYC Law Firm 4,Sample Case 14,2023-06-08,Family Law,Pending Appeal
+NYC-2023-1015,Example NYC Law Firm 5,Sample Case 15,2023-06-19,Contract Dispute,Case Withdrawn
+NYC-2024-1016,Example NYC Law Firm 6,Sample Case 16,2023-06-30,Immigration,Settled for Plaintiff
+NYC-2025-1017,Example NYC Law Firm 7,Sample Case 17,2023-07-11,Civil Rights,Settled for Defendant
+NYC-2023-1018,Example NYC Law Firm 8,Sample Case 18,2023-07-22,Landlord-Tenant,Dismissed
+NYC-2024-1019,Example NYC Law Firm 9,Sample Case 19,2023-08-02,Consumer Protection,Judgment for Plaintiff
+NYC-2025-1020,Example NYC Law Firm 10,Sample Case 20,2023-08-13,Housing,Judgment for Defendant
+NYC-2023-1021,Example NYC Law Firm 1,Sample Case 21,2023-08-24,Emancipation,Mediation Agreement Reached
+NYC-2024-1022,Example NYC Law Firm 2,Sample Case 22,2023-09-04,Employment,Pending Appeal
+NYC-2025-1023,Example NYC Law Firm 3,Sample Case 23,2023-09-15,Personal Injury,Case Withdrawn
+NYC-2023-1024,Example NYC Law Firm 4,Sample Case 24,2023-09-26,Family Law,Settled for Plaintiff
+NYC-2024-1025,Example NYC Law Firm 5,Sample Case 25,2023-10-07,Contract Dispute,Settled for Defendant
+NYC-2025-1026,Example NYC Law Firm 6,Sample Case 26,2023-10-18,Immigration,Dismissed
+NYC-2023-1027,Example NYC Law Firm 7,Sample Case 27,2023-10-29,Civil Rights,Judgment for Plaintiff
+NYC-2024-1028,Example NYC Law Firm 8,Sample Case 28,2023-11-09,Landlord-Tenant,Judgment for Defendant
+NYC-2025-1029,Example NYC Law Firm 9,Sample Case 29,2023-11-20,Consumer Protection,Mediation Agreement Reached
+NYC-2023-1030,Example NYC Law Firm 10,Sample Case 30,2023-12-01,Housing,Pending Appeal
+NYC-2024-1031,Example NYC Law Firm 1,Sample Case 31,2023-12-12,Emancipation,Case Withdrawn
+NYC-2025-1032,Example NYC Law Firm 2,Sample Case 32,2023-12-23,Employment,Settled for Plaintiff
+NYC-2023-1033,Example NYC Law Firm 3,Sample Case 33,2024-01-03,Personal Injury,Settled for Defendant
+NYC-2024-1034,Example NYC Law Firm 4,Sample Case 34,2024-01-14,Family Law,Dismissed
+NYC-2025-1035,Example NYC Law Firm 5,Sample Case 35,2024-01-25,Contract Dispute,Judgment for Plaintiff
+NYC-2023-1036,Example NYC Law Firm 6,Sample Case 36,2024-02-05,Immigration,Judgment for Defendant
+NYC-2024-1037,Example NYC Law Firm 7,Sample Case 37,2024-02-16,Civil Rights,Mediation Agreement Reached
+NYC-2025-1038,Example NYC Law Firm 8,Sample Case 38,2024-02-27,Landlord-Tenant,Pending Appeal
+NYC-2023-1039,Example NYC Law Firm 9,Sample Case 39,2024-03-09,Consumer Protection,Case Withdrawn
+NYC-2024-1040,Example NYC Law Firm 10,Sample Case 40,2024-03-20,Housing,Settled for Plaintiff
+NYC-2025-1041,Example NYC Law Firm 1,Sample Case 41,2024-03-31,Emancipation,Settled for Defendant
+NYC-2023-1042,Example NYC Law Firm 2,Sample Case 42,2024-04-11,Employment,Dismissed
+NYC-2024-1043,Example NYC Law Firm 3,Sample Case 43,2024-04-22,Personal Injury,Judgment for Plaintiff
+NYC-2025-1044,Example NYC Law Firm 4,Sample Case 44,2024-05-03,Family Law,Judgment for Defendant
+NYC-2023-1045,Example NYC Law Firm 5,Sample Case 45,2024-05-14,Contract Dispute,Mediation Agreement Reached
+NYC-2024-1046,Example NYC Law Firm 6,Sample Case 46,2024-05-25,Immigration,Pending Appeal
+NYC-2025-1047,Example NYC Law Firm 7,Sample Case 47,2024-06-05,Civil Rights,Case Withdrawn
+NYC-2023-1048,Example NYC Law Firm 8,Sample Case 48,2024-06-16,Landlord-Tenant,Settled for Plaintiff
+NYC-2024-1049,Example NYC Law Firm 9,Sample Case 49,2024-06-27,Consumer Protection,Settled for Defendant
+NYC-2025-1050,Example NYC Law Firm 10,Sample Case 50,2024-07-08,Housing,Dismissed
