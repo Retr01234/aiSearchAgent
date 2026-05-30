@@ -17,7 +17,7 @@ if add_documents:
     for i, row in df.iterrows():
         document = Document(
             page_content=row["Case Type"] + " " + row["Result"],
-            metadata={"name": row["Case Name"], "date": row["Date"]}
+            metadata={"name": row["Case Name"], "date": row["Date"]},
             id=str(i)
         )
         ids.append(str(i))

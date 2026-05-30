@@ -24,6 +24,6 @@ while True:
         break
 
     reviews = retriever.invoke(question)
-    result = chain.invoke({"reviews": reviews, "question": question})
+    result = chain.invoke({"results": reviews, "question": question})
 
     print(result)
